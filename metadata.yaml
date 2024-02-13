@@ -1,0 +1,40 @@
+_repo: Le-voyageur-etonne_72798
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Retté, Adolphe
+    alias: Rette, Adolphe
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '6973'
+    url: http://www.gutenberg.org/2009/agents/6973
+    wikipedia: https://fr.wikipedia.org/wiki/Adolphe_Rett%C3%A9
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72798'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k97350034
+pgterms:marc905: 20240122222601rett
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bAlbert Messein, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholics -- France -- Biography'
+- !lcsh 'French essays'
+- !lcsh 'Retté, Adolphe, 1863-1930'
+- !lcsh 'Devotional literature, French'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Dédicace -- Préambule -- Le Voyageur étonné -- Des matins à Notre-Dame
+  de Paris -- Ames du Purgatoire -- Les veilleurs -- Un revenant -- Un rêve -- Les
+  hirondelles -- Brèves étapes du voyageur éclopé -- Argument -- Juin -- Juillet --
+  Août -- Septembre -- Octobre -- Novembre -- Lectures préférées -- Notes testamentaires.
+title: Le voyageur étonné
+url: http://www.gutenberg.org/ebooks/72798
